@@ -1,10 +1,11 @@
 ![Tinitiate SQLSERVER Training](../images/sqlserver.png)
-# SQL SERVER DDL
-> Venkata B / Tinitiate.com
+# POSTGRES DDL
+> Jay Kumsi / Tinitiate.com
 
 ## DDL
-* Data Definition Language (DDL) is a set of SQL statements that are used to define the structure of a database. DDL statements are used to create, alter, and drop database objects such as tables, views, stored procedures, and functions.
-* Some of the most common DDL statements in SQL Server include:
+* DDL (Data Definition Language) in PostgreSQL is used to define, manage, and manipulate the structure of database objects such as tables, indexes, and schemas. Here are some common DDL commands in PostgreSQL:
+
+* Some of the most common DDL statements in Postgres include:
   * CREATE TABLE: This statement is used to create a new table in a database.
   * ALTER TABLE: This statement is used to modify the structure of an existing table.
   * DROP TABLE: This statement is used to delete a table from a database.
