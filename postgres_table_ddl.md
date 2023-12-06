@@ -13,7 +13,7 @@
 
 ## Employee Schema
 ```sql
-use employees;
+create schema employees;
 ```
 ### Drop and ReCreate Tables
 * **Drop tables if exists (if needed).**
