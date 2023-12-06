@@ -1,6 +1,6 @@
-![Tinitiate SQLSERVER Training](../images/sqlserver.png)
-# SQL SERVER DDL
-> Venkata B / Tinitiate.com
+![Tinitiate Postgres Training](../images/sqlserver.png)
+# Postgres DDL
+> Jay Kumsi / Tinitiate.com
 
 ## EMPLOYEE SCHEMA TABLE INSERTs
 
