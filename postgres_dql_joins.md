@@ -7,11 +7,11 @@
  
 ## INNER JOIN
 An INNER JOIN returns only the rows where there is a match in both tables.
-
+```sql
 SELECT employees.employee_id, employees.employee_name, departments.department_name
 FROM employees
 INNER JOIN departments ON employees.department_id = departments.department_id;
- 
+``` 
 
 ## LEFT JOIN (or LEFT OUTER JOIN):
 
