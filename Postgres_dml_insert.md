@@ -5,8 +5,9 @@
 * Insert DML Data Manipulation Language
 ```sql
 -- Insert with column created order
-## insert into employees.dept (deptid,dname) values (1000,'PRODUCTION');
-
+```sql
+Insert into employees.dept (deptid,dname) values (1000,'PRODUCTION');
+```
 -- Insert with column names, use positional values
 INSERT into employees.DEPT values (2000,'FOUNDRY');
 
